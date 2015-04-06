@@ -1,4 +1,4 @@
-bbGGPS
+# bbGGPS
 
 This is a [Google Play Game Services](https://developer.android.com/google/play-services/index.html) module for the [Godot game engine](http://www.godotengine.org/wp/), written by [blubee](http://blubee.me)
 
