@@ -1,5 +1,7 @@
 # bbGGPS
 
+[![Godot Google Play Services Admob Video](http://img.youtube.com/vi/ssdkUM_XIsQ/0.jpg)](http://www.youtube.com/watch?v=ssdkUM_XIsQ)
+
 This is a [Google Play Game Services](https://developer.android.com/google/play-services/index.html) module for the [Godot game engine](http://www.godotengine.org/wp/), written by [blubee](http://blubee.me)
 
 This module should be straigh forward to use.
